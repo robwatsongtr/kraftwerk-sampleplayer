@@ -13,7 +13,7 @@ import './index.css';
 
 function Gridbox(props) {
   return (
-      <button className="gridbox"	onClick={ props.onClick }>
+      <button className="gridbox" onClick={ props.onClick }>
         {props.label}
       </button>
   );
