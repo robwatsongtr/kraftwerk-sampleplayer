@@ -1,11 +1,15 @@
-// Loads samples from the Kraftwerk song "Its More Fun To Compute",
-// in a drum machine like grid. Samples are triggered by clicking.
-//
-// KEYBOARD TRIGGEDRING ADDED!! on 9/21/20
-// TODO: figure out a way to preload the samples so there isn't a delay
-// with the first played sample in a series.
-//
-// V 1.1 September 2020
+/* 
+  It's More Fun To Compute sample player. 
+
+  Loads samples from the Kraftwerk song "Its More Fun To Compute",
+  in a drum machine like grid. Samples are triggered by clicking, or 1-9 keys. 
+
+  KEYBOARD TRIGGEDRING ADDED!! on 9/21/20
+  TODO: figure out a way to preload the samples so there isn't a delay
+  with the first played sample in a series.
+
+  V 1.1 September 2020
+*/
 
 import React from 'react';
 import ReactDOM from 'react-dom';
