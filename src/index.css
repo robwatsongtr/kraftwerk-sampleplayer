@@ -22,7 +22,8 @@ footer {
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: yellow;
-  padding: 10px;
+  gap: 20px;
+  padding: 50px;
 }
 
 .gridbox {
