@@ -1,3 +1,7 @@
+A tribute to Kraftwerk that maps percussion sounds from the song "It's More Fun To Compute" to a grid that can be played
+Either by the mouse or by the Number Keys (get it??). 
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
