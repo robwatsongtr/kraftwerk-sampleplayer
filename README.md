@@ -1,5 +1,5 @@
 A tribute to Kraftwerk that maps percussion sounds from the song "It's More Fun To Compute" to a grid that can be played
-Either by the mouse or by the Number Keys (get it??). 
+either by the mouse or by the Number Keys (get it??). 
 
 
 
