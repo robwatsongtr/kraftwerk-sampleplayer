@@ -110,7 +110,7 @@ class Console extends React.Component {
       )
     )
     return (
-      <>
+      <div className="console">
         <header>
           <h1>It's More Fun to Compute</h1>
           <h2>Kraftwerk Sample Player</h2>
@@ -130,10 +130,9 @@ class Console extends React.Component {
         {kwSamples}
         <footer>
           <h3>RIP Florian Schneider</h3>
-          <p>Rob Watson 2020</p>
-          <h5>v1.1</h5>
+          <h5>Rob Watson 2020-2021</h5>
         </footer>
-      </>
+      </div>
     )
   }
 }
