@@ -3,12 +3,7 @@
 
   Loads samples from the Kraftwerk song "Its More Fun To Compute",
   in a drum machine like grid. Samples are triggered by clicking, or 1-9 keys. 
-
-  KEYBOARD TRIGGEDRING ADDED!! on 9/21/20
-  TODO: figure out a way to preload the samples so there isn't a delay
-  with the first played sample in a series.
-
-  V 1.1 September 2020
+  
 */
 
 import React from 'react';
@@ -114,7 +109,8 @@ class Console extends React.Component {
         <header>
           <h1>It's More Fun to Compute</h1>
           <h2>Kraftwerk Sample Player</h2>
-          <h4>1-9 Keys trigger samples</h4>
+          <h5>Clicking on boxes triggers samples</h5>
+          <h5>1-9 Keys trigger samples</h5>
         </header>
         <div className="grid-container">
           {this.renderGridbox(0)}
